@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
 title: Welcome to my homepage!
+
+
 description: This entire page is going to be edited later!
 
 Below is the automatic stuff, it is going to be removed!
