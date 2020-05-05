@@ -1,7 +1,17 @@
 ## Welcome to GitHub Pages
 
 title: Welcome to my homepage!
+
+
 description: This entire page is going to be edited later!
+
+
+List of Projects:
+
+- This webpage
+- The Classic Hello World
+
+
 
 Below is the automatic stuff, it is going to be removed!
 You can use the [editor on GitHub](https://github.com/Kristina01111000/Kristina01111000.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
