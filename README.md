@@ -12,6 +12,18 @@ List of Projects:
 - The Classic Hello World
 
 
+Open Source Projects:
+-
+-
+-
+
+NOTES:
+-figure out how to store previously made projects
+-start putting then on
+-memorize branching and pull requests steps 
+-find some(3)potential open source projects to work on
+
+
 
 Below is the automatic stuff, it is going to be removed!
 You can use the [editor on GitHub](https://github.com/Kristina01111000/Kristina01111000.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
