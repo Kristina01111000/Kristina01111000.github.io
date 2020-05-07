@@ -8,8 +8,21 @@ description: This entire page is going to be edited later!
 
 List of Projects:
 
-- This webpage
-- The Classic Hello World
+  Github only:
+  - This webpage
+  - The Classic Hello World
+  
+  C++:
+  -
+  
+  Java:
+  -
+  
+  Javascript:
+  -
+  
+  some database language
+  -pick one
 
 
 Open Source Projects:
