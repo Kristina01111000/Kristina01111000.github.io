@@ -22,7 +22,9 @@ List of Projects:
   -
   
   some database language
-  -pick one
+  - pick one?
+  - possibly mysql or oracle? 
+  - some experience with mysql, not much
 
 
 Open Source Projects:
