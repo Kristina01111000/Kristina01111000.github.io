@@ -20,7 +20,7 @@ List of Projects:
   -
   
   Javascript:
-  -
+  - form validation 
   
   some database language
   - pick one?
