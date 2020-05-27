@@ -21,6 +21,7 @@ List of Projects:
   
   Javascript:
   - form validation 
+  - Tetris
   
   some database language
   - pick one?
@@ -38,6 +39,7 @@ NOTES:
 -start putting then on
 -memorize branching and pull requests steps 
 -find some(3)potential open source projects to work on
+
 
 
 
