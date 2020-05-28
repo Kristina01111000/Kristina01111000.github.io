@@ -4,7 +4,7 @@ title: Welcome to my homepage!
 
 
 description: This entire page is going to be edited later!
-This is a list of my projects that I have worked on during the last 3 years.  I know how to code in C++, Java, Javascript, as well as some web development to make the projects easy to read.
+This is a list of my projects that I have worked on during the last 3 years.  I know how to code in C++, Java, and Javascript. I also know some web development to make the projects easy to read.
 
 
 List of Projects:
