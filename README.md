@@ -40,6 +40,7 @@ NOTES:
 -memorize branching and pull requests steps 
 -find some(3)potential open source projects to work on
 -attach other projects to this page? would make it easier to find them, not actually necessary b/c attached to my profile
+-figure out how to set up automatic additions from atom to github
 
 
 
