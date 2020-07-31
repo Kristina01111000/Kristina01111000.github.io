@@ -3,8 +3,9 @@
 title: Welcome to my homepage!
 
 
-description: This entire page is going to be edited later!
-This is a list of my projects that I have worked on during the last 3 years.  I know how to code in C++, Java, and Javascript. I also know some web development to make the projects easy to read.
+description: This entire page is going to be edited later! 
+----ADD C++ PROJECTS TO LIST BELOW----
+This is a list of my projects that I have worked on during the last 3 years.  I know how to code in C++, Java, and Javascript. I also know web development!
 
 
 List of Projects:
@@ -22,6 +23,8 @@ List of Projects:
   Javascript:
   - form validation 
   - Tetris
+  - Memory Game
+  - Typetester
   
   some database language
   - pick one?
@@ -37,7 +40,6 @@ Open Source Projects:
 NOTES:
 -figure out how to store previously made projects
 -start putting then on
--memorize branching and pull requests steps 
 -find some(3)potential open source projects to work on
 -attach other projects to this page? would make it easier to find them, not actually necessary b/c attached to my profile
 -figure out how to set up automatic additions from atom to github
