@@ -2,8 +2,11 @@
 
 
 This entire page is going to be edited later! 
-----ADD C++ PROJECTS TO LIST BELOW----
+
+----ADD C++ and Java PROJECTS TO LIST BELOW----
+
 This is a list of some of the projects that I have worked on during the last 3 years. 
+
 I have done projects in C++, Java, and Javascript. I also know web development!
 
 
@@ -20,10 +23,10 @@ List of Projects:
   -
   
   Javascript:
-  - form validation 
   - Tetris
   - Memory Game
   - Typetester
+  - Form Validation 
   
   some database language
   - pick one?
@@ -42,6 +45,7 @@ NOTES:
 -find some(3)potential open source projects to work on
 -attach other projects to this page? would make it easier to find them, not actually necessary b/c attached to my profile
 -figure out how to set up automatic additions from atom to github
+- put the projects list in language order from best known to least
 
 
 
