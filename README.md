@@ -1,9 +1,7 @@
-## Welcome to GitHub Pages
-
-title: Welcome to my homepage!
+## Welcome to my homepage!
 
 
-description: This entire page is going to be edited later! 
+#This entire page is going to be edited later! 
 ----ADD C++ PROJECTS TO LIST BELOW----
 This is a list of my projects that I have worked on during the last 3 years.  I know how to code in C++, Java, and Javascript. I also know web development!
 
