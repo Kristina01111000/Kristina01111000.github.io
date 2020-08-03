@@ -3,7 +3,7 @@
 
 This entire page is going to be edited later! 
 
-----ADD C++ and Java PROJECTS TO LIST BELOW----
+----ADD C++ AND JAVA PROJECTS TO LIST BELOW----
 
 This is a list of some of the projects that I have worked on during the last 3 years. 
 
@@ -17,7 +17,7 @@ List of Projects:
   - The Classic Hello World
   
   C++:
-  -
+  - game -> is this applicable? only runs with the correct library installed
   
   Java:
   -
