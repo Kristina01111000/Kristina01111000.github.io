@@ -3,7 +3,8 @@
 
 This entire page is going to be edited later! 
 
-----ADD C++ AND JAVA PROJECTS TO LIST BELOW----
+----ADD C++ AND JAVA PROJECTS TO LIST BELOW and to github----
+---- add solidity?----
 
 This is a list of some of the projects that I have worked on during the last 3 years. 
 
