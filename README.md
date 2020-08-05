@@ -14,10 +14,12 @@ I have done projects in C++, Java, and Javascript. I also know web development!
 List of Projects:
 
   Github only:
+  
   - This webpage
   - The Classic Hello World
   
   C++:
+  
   - game -> is this applicable? only runs with the correct library installed
   -  also only edited them, didn't necessarily write them
   
@@ -25,12 +27,14 @@ List of Projects:
   -
   
   Javascript:
+  
   - Tetris
   - Memory Game
   - Typetester
   - Form Validation 
   
   some database language
+  
   - pick one?
   - possibly mysql or oracle? 
   - some experience with mysql, not much
@@ -42,6 +46,7 @@ Open Source Projects:
 -
 
 NOTES:
+
 -figure out how to store previously made projects
 -start putting then on
 -find some(3)potential open source projects to work on
