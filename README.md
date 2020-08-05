@@ -19,6 +19,7 @@ List of Projects:
   
   C++:
   - game -> is this applicable? only runs with the correct library installed
+  -  also only edited them, didn't necessarily write them
   
   Java:
   -
