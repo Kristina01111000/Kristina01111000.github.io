@@ -35,6 +35,7 @@ List of Projects:
   some database language
   
   - pick one?
+  - probably php is the best one
   - possibly mysql or oracle? 
   - some experience with mysql, not much
 
