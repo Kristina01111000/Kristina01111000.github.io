@@ -8,7 +8,7 @@ This entire page is going to be edited later!
 
 This is a list of some of the projects that I have worked on during the last 3 years. 
 
-I have done projects in C++, Java, and Javascript. I also know web development!
+I have done projects in C++, Java, and Javascript. I also am making a Wordpress theme!
 
 
 List of Projects:
@@ -27,7 +27,6 @@ List of Projects:
   -
   
   Javascript:
-  
   - Tetris
   - Memory Game
   - Typetester
