@@ -4,11 +4,10 @@
 This entire page is going to be edited later! 
 
 ----ADD C++ AND JAVA PROJECTS TO LIST BELOW and to github----
----- add solidity?----
 
 This is a list of some of the projects that I have worked on during the last 3 years. 
 
-I have done projects in C++, Java, and Javascript. I also am making a Wordpress theme!
+I have done projects in C++, Java, and Javascript. I also am making a Wordpress theme! 
 
 
 List of Projects:
@@ -53,7 +52,7 @@ NOTES:
 -attach other projects to this page? would make it easier to find them, not actually necessary b/c attached to my profile
 -figure out how to set up automatic additions from atom to github
 - put the projects list in language order from best known to least
-
+- add that i have basic block chain knowledge?
 
 
 
