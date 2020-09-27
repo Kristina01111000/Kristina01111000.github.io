@@ -17,6 +17,8 @@ List of Projects:
   - This webpage
   - The Classic Hello World
   
+  Wordpress Theme: 
+  - from Brad Hussey's class
   C++:
   
   - game -> is this applicable? only runs with the correct library installed
