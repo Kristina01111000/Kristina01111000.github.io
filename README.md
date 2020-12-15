@@ -11,10 +11,6 @@ I have done projects in C++, Java, and Javascript. I also am making a Wordpress 
 
 
 List of Projects:
-
-  Github only:
-  - This webpage
-  - The Classic Hello World
   
   Wordpress Theme: 
   - from Brad Hussey's class
