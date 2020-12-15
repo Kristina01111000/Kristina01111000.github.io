@@ -13,19 +13,11 @@ I have done projects in C++, Java, and Javascript. I also am making a Wordpress 
 List of Projects:
 
   Github only:
-  
   - This webpage
   - The Classic Hello World
   
   Wordpress Theme: 
   - from Brad Hussey's class
-  C++:
-  
-  - game -> is this applicable? only runs with the correct library installed
-  -  also only edited them, didn't necessarily write them
-  
-  Java:
-  -
   
   Javascript:
   - Tetris
@@ -38,7 +30,14 @@ List of Projects:
   - wordpress functionality
   - is it prime
   
-
+  C++:
+  
+  - game -> is this applicable? only runs with the correct library installed
+  -  also only edited them, didn't necessarily write them
+  
+  Java:
+  -
+  
 
 Open Source Projects:
 -
