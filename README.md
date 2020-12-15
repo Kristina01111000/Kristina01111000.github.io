@@ -1,6 +1,3 @@
-## Welcome to my homepage!
-
-
 Everything below this is still being edited!
 
 ----ADD C++ AND JAVA PROJECTS TO LIST BELOW and to github----
