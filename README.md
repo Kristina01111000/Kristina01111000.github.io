@@ -33,7 +33,9 @@ List of Projects:
   - Typetester
   - Form Validation 
   
-  
+  PHP
+  - contact form
+  - wordpress functionality
   
 
 
