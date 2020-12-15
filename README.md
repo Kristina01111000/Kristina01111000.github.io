@@ -1,7 +1,7 @@
 ## Welcome to my homepage!
 
 
-This entire page is going to be edited later! 
+Everything below this is still being edited!
 
 ----ADD C++ AND JAVA PROJECTS TO LIST BELOW and to github----
 
@@ -33,12 +33,8 @@ List of Projects:
   - Typetester
   - Form Validation 
   
-  some database language
   
-  - pick one?
-  - probably php is the best one
-  - possibly mysql or oracle? 
-  - some experience with mysql, not much
+  
 
 
 Open Source Projects:
