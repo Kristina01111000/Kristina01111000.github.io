@@ -2,6 +2,8 @@ Everything below this is still being edited!
 
 ----ADD C++ AND JAVA PROJECTS TO LIST BELOW and to github----
 
+- add a title picture on top banner
+
 This is a list of some of the projects that I have worked on during the last 3 years. 
 
 I have done projects in C++, Java, and Javascript. I also am making a Wordpress theme! 
