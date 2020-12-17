@@ -5,6 +5,9 @@ Everything below this is still being edited!
 - add a title picture on top banner
 - peepso, learndash, and woocommerce work together?
 - test site is working with wordpress!
+- using ionos for database
+
+
 This is a list of some of the projects that I have worked on during the last 3 years. 
 
 I have done projects in C++, Java, and Javascript. I also am making a Wordpress theme! 
