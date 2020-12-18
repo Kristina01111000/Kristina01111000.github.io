@@ -6,6 +6,7 @@ Everything below this is still being edited!
 - peepso, learndash, and woocommerce work together?
 - test site is working with wordpress!
 - using ionos for database
+- putting the wordpress files in with filezilla
 
 
 This is a list of some of the projects that I have worked on during the last 3 years. 
