@@ -7,6 +7,7 @@ Everything below this is still being edited!
 - test site is working with wordpress!
 - using ionos for database
 - putting the wordpress files in with filezilla
+- peepso it working very well!
 
 
 This is a list of some of the projects that I have worked on during the last 3 years. 
