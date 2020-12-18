@@ -8,6 +8,7 @@ Everything below this is still being edited!
 - using ionos for database
 - putting the wordpress files in with filezilla
 - peepso it working very well!
+  - only issue is that new users have access to basic wordpress dashboard
 
 
 This is a list of some of the projects that I have worked on during the last 3 years. 
