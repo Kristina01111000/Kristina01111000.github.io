@@ -18,8 +18,9 @@ I have done projects in C++, Java, and Javascript. I also am making a Wordpress 
 
 List of Projects:
   
-  Wordpress Theme: 
-  - from Brad Hussey's class
+  Wordpress: 
+  - Personalizing theme from Brad Hussey's class
+  - making a website for dr w using peepso, learndash, woocommerce
   
   Javascript:
   - Tetris
