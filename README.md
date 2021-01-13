@@ -19,7 +19,7 @@ List of Projects:
   
   Wordpress: 
   - Personalizing theme from Brad Hussey's class
-  - making a website for dr w using peepso, learndash, woocommerce
+  - making a website for dr w using peepso, learndash, woocommerce -> going well, need to get the theme he wants
   
   Javascript:
   - Tetris
