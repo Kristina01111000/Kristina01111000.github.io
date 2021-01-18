@@ -7,7 +7,7 @@ Everything below this is still being edited!
 - test site is working with wordpress!
 - using ionos for database
 - putting the wordpress files in with filezilla
-- peepso it working very well!
+- peepso it working very well!  ->> needs up to date php 
   - only issue is that new users have access to basic wordpress dashboard -> probably a button somewhere that fixes that
   - found it, its under management
 - note to self: It is very easy to delete sites on inmotion hosting so make sure to always have a backup
