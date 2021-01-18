@@ -9,6 +9,7 @@ Everything below this is still being edited!
 - putting the wordpress files in with filezilla
 - peepso it working very well!
   - only issue is that new users have access to basic wordpress dashboard -> probably a button somewhere that fixes that
+- note to self: It is very easy to delete sites on inmotion hosting so make sure to always have a backup
 
 This is a list of some of the projects that I have worked on during the last 3 years. 
 
