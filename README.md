@@ -12,7 +12,7 @@ Everything below this is still being edited!
   - found it, its under management
 - note to self: It is very easy to delete sites on inmotion hosting so make sure to always have a backup
 - figure out if ssl is easier to do at the beginning or the end with inmotion
-  - can't get ssl certificate to work, asking for help
+  - need to find where to get ssl certificate with inmotion
 
 This is a list of some of the projects that I have worked on during the last 3 years. 
 
