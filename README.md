@@ -13,7 +13,7 @@ Everything below this is still being edited!
 - note to self: It is very easy to delete sites on inmotion hosting so make sure to always have a backup
 - figure out if ssl is easier to do at the beginning or the end with inmotion
   - need to find where to get ssl certificate with inmotion
-
+- inmotion takes about 24-48 hours to get back to support tickets
 This is a list of some of the projects that I have worked on during the last 3 years. 
 
 I have done projects in C++, Java, and Javascript. I also am making a Wordpress theme! 
